@@ -22,3 +22,4 @@ testesmalucos
 *.njsproj
 *.sln
 *.sw?
+.env
